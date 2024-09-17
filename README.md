@@ -1,3 +1,7 @@
+<section>
+  <img src="https://github-readme-stats.vercel.app/api?username=whohenrique&theme=dark" min-width="400px" max-width="400px" width="400px" align="right" />
+</section>
+
 <section align="left">
     <p>
        Hello, I'm Henrique!, I currently work as a frontend developer.
@@ -25,6 +29,3 @@
   </div>
 </details>
 
-<section>
-  <img width="350px" height="165px" align="left" src="https://github-readme-stats.vercel.app/api?username=whohenrique&theme=dark" />
-</section>
